@@ -1,0 +1,9 @@
+routines
+-Wifi used(stop attempting to connect after 15sec of failing)
+    -for 5 min span after reset : Webserver.
+    -24hr interval/reset : fetch global time (esp8266 keeps track of time pretty accurately.)
+    -15min interval : post temparature value[OPTIONAL]
+-pwm output
+    -light sleep
+-no pwm output
+    -light sleep because deepsleep reset everything time are lost.
