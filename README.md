@@ -1,3 +1,7 @@
+# Tested device
+- esp8266
+# Example Video
+. . . .
 # Features
 - Configure light density for your plant at any hour.
 - View current temparature and humidity.
