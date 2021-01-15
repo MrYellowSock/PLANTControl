@@ -9,5 +9,5 @@
 - cooling fans activate when temparature exceed limits.
 ![screenshot](https://github.com/MrYellowSock/PLANTControl/blob/main/screenshot.png)
 
-# How to Configuration
+# How to Configure
 - coming soon. . .
