@@ -1,7 +1,7 @@
 # Tested device
 - esp8266
-# Example Video
-. . . .
+# Circiut
+![circiut](https://github.com/MrYellowSock/PLANTControl/blob/main/circiut_schem.png)
 # Features
 - Configure light density for your plant at any hour.
 - View current temparature and humidity.
